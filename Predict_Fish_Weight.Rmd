@@ -106,6 +106,9 @@ Pikebest <-lm(Weight~.,data=Pike)
 summary.lm(Pikebest)
 ```
 
+From the data The r-squared is 0.9794 and the residual error is 70.86. Then The p-value is 8.679. which shows that this is the best model
+
+
 ### Best Two regressor model
 
 ## Roach
