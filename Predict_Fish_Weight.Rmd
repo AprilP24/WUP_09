@@ -116,6 +116,8 @@ Piketwo <-lm(Weight~Length1+Length3, data=Pike)
 summary.lm(Piketwo)
 ```
 
+ From the data above it shows that the  residual standard error is 92.56. The r-squared is 0.9649 and the p-value is 2.572e-11. and because the p-value is the smallest it shows the best results. 
+
 ## Roach
 
 ### Best Models
