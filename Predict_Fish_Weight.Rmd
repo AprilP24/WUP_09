@@ -159,4 +159,4 @@ The residual standard error is 36.83. The r-squared is 0.8281 and the p-value is
 
 ## Final Summary Statements
 
-
+In conclusion the models above had created a data for us to compare and showed how different each model results can be . And so far The best models are L1 and L3. But all of them are equivalent to one another, since the results showed that they are all the best. Although  one of the models had The smallest p-value  which was the Roachrock model of 1.028e-05. 
